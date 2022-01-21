@@ -1,0 +1,331 @@
+ h1
+      {
+        color:white;
+        font-size: 60px;
+        font-family:Arial, Helvetica, sans-serif;
+        background:url(file:///D:/visual%20studio%20code/edita2.jpg);
+        border:solid rgb(24, 58, 24);
+        background-repeat: no-repeat;
+        text-shadow:5px 5px 5px black;
+        text-align:center;
+        width:1060px;
+        margin:50px;
+        padding:70px;
+       }  
+     
+        h2, h3, h4
+      {
+        color:blue;
+      }
+     
+      body
+      {
+        background:url(file:///D:/visual%20studio%20code/depositphotos_12407824-stock-photo-marijuana-leaf-seamless-background.jpg);
+        background-repeat:repeat;
+        color:blue;
+        width:100%;
+        background-attachment: fixed;
+        background-size:50%;
+      }
+     
+      h2
+      {
+        font-size: 40px;
+      }
+     
+      h3
+      {
+        font-size: 30px;
+      }
+     
+      h4
+      {
+        font-size: 20px;
+      }
+    
+      h5
+      {
+        font-size: 20px;
+      }
+     
+      .vegetative
+      {
+        font-size: 20px;
+      }
+     
+      .orange
+      {
+        color:orange;
+      }
+     
+      a
+      {
+        color: yellow;
+        font-size: 30px;
+        
+      }
+
+      
+      .black
+      {
+        background-color:black ;
+        color:white;
+        width: 200px;
+        padding:10px;
+        border: solid white; 
+        position:absolute;
+        left:75%;
+        top:464%;
+       }
+      
+      div h4
+      {
+        color:blue;
+      }
+     
+      div h5
+      {
+      color:white;
+      }
+      
+      div 
+      {
+      background-color:rgb(203, 155, 248);
+      color:white;
+      width: 90%;
+      margin:2%;
+      padding:2%;
+      border:gold;
+      border-radius: 50px;
+      border-style:ridge;
+      border-width:5px;
+
+      }
+      
+      .white
+      {
+        background-color:black;
+        font-size: 20px;
+        color:goldenrod;
+        padding:5px;
+        margin:-1%;
+        width:100%;
+        height:60px;
+        bottom:5px;
+        border-radius: inherit;
+        border:none;
+        position:fixed;
+
+      }
+      
+      .brown
+      {
+        font-size: 30px;
+        
+      }
+      
+      img
+      {
+        width:98%;
+        border:solid white;
+        position: relative;
+        left:10px;
+        position: inherit;
+      }
+     
+      .pink
+      {
+        width:10%;
+        position: relative;
+        border:solid gray;
+        bottom:8px;
+      }
+    
+      video
+     {
+       width:98%;
+       border:solid white;
+     }
+    
+     .tricomas
+    {
+      width:850px;
+    }
+      .brand
+      {
+        float:right;
+        height:200px;
+        width: 250px;
+        margin: 2%;
+      }
+      .clear
+      {
+        clear:both;
+      }
+     p
+     {
+       font-size:20px;
+     }
+     .rengar
+     {
+       background-color:black;
+       border:ridge gold;
+       border-width:5px;
+     }
+     .redes
+     {
+       padding:10px 10px;
+     }
+     .whatsapp
+     {
+       width: 50px;
+       border:none;
+       position:relative;
+       left:750px;
+       bottom:53px;       
+     }
+     .instagram
+     {
+      width: 28px;
+      border:none;
+      position:relative;
+      left:750px;
+      bottom:60px; 
+     }
+     .facebook
+     {
+      width: 25px;
+      border:none;
+      position:relative;
+      width: 25px;
+      border:none;
+      position:relative;
+      left:769px;
+      bottom:61px;
+     }
+     .whatsapp:hover
+     {
+       transform: scale(2.0);
+     }
+     .instagram:hover
+     {
+      transform: scale(2.0);   
+     }
+     .facebook:hover
+     {
+      transform: scale(2.0);
+     }    
+     footer
+     {
+      position:fixed;
+     }
+     header
+     {
+       margin:auto;
+       font-family:Arial, Helvetica, sans-serif;
+       position:relative;
+       bottom:221px;
+       left:110px;
+     }
+     ul, ol
+     {
+       list-style:none;
+     
+     }
+     .menu li a
+     {
+     background:gray;
+     color:white;
+     text-decoration:none;
+     padding:15px 20px;
+     display: block;    
+     }
+     .menu li ul
+     {
+      display:none;
+      position:absolute;
+      min-width:140px;
+     }
+     .menu > li{
+       float:left;
+     }
+     .menu li a:hover
+     {
+       background:black;
+       color:white;
+       height:-100px;
+     }
+     .menu li:hover > ul
+     {
+       display:block;
+     }
+     .menu li ul li
+     {
+       position:relative;
+       right:40px;
+       
+       
+     }
+     .menu li ul li ul li
+     {
+      left:234px;
+      bottom:64px;
+     }
+     .menu li a:active
+     {
+      background-color:red;
+     }
+     .menu
+     {
+       position: fixed;
+     }
+     .submenu
+     {
+       position:relative;
+       left:38px;
+       top:19px;
+       font-size:90%; 
+     }
+     .subsubmenu
+     {
+       position:relative;
+       right:83px;
+       font-size:70%;
+       top:37px;
+    
+     }
+     .segundosubmenu
+     {
+      position:relative;
+      top:19px;
+      font-size:90%; 
+     }
+     .buscar
+     {
+      position:absolute;     
+      transform:translate(-50%, -50%);
+      top:5%;
+      left:91.3%;   
+     }
+     input.src
+     {
+      padding:9px 10px 9px 32px;
+      outline:none;
+      font-size: 18px;
+      border-radius:15px;
+      color:#444;
+      border:3px solid #a50559;
+      width: 60px;
+      background:#fff url("")
+           no-repeat 20px center;
+      width: 60px;
+      transition:all.5s ;   
+     }
+     input.src:hover
+     {
+      width:180px;
+      border-color:#8c10b3;
+      box-shadow: 0 0 5px #6dcff680;
+     }
+
+     
